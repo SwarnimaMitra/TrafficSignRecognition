@@ -128,21 +128,6 @@ Output Layer (43 Classes)
 
 ---
 
-## 📁 Project Structure
-
-```text
-Traffic-Sign-Recognition/
-│
-├── dataset/
-├── models/
-├── notebooks/
-├── images/
-├── train.py
-├── predict.py
-├── requirements.txt
-├── traffic_sign_model.h5
-└── README.md
-```
 
 ## ▶️ Installation
 
@@ -159,19 +144,6 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-## 🚀 Run the Project
-
-Train the model:
-
-```bash
-python train.py
-```
-
-Make predictions:
-
-```bash
-python predict.py
-```
 
 ## 📊 Evaluation Metrics
 
